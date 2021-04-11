@@ -1,0 +1,25 @@
+
+/**
+*Border radius
+*/
+
+.btn,
+.jumbotron,
+.nav:hover{
+    border-radius: 0px;
+}
+
+
+
+.jumbotron h2{
+    margin-top: -20px;
+}
+@media only screen and (max-width:600px) {
+    .jumbotron h2{
+        margin-top:10px
+    }
+}
+
+.studentTable {
+    margin-left: 120px;
+}
